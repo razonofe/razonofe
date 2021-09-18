@@ -2,7 +2,8 @@
 title:               Razon o fe
 tagline:             'Comunidad Atea'
 description:         'Una comunidad para conocer, compartir y cuidar. Queremos promover y compartir una visión racional, filosófica, crítica, científica y ética de la vida.'
-url:                 http://localhost:4000
+#url:                 http://localhost:4000
+url:                 https://razonofe.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
