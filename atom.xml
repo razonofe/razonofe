@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Razon o fe</title>
- <link href="https://razonofe.github.io/atom.xml" rel="self"/>
- <link href="https://razonofe.github.io/"/>
- <updated>2021-09-18T21:07:51+02:00</updated>
- <id>https://razonofe.github.io</id>
+ <link href="https://razonofe.github.io/razonofe/atom.xml" rel="self"/>
+ <link href="https://razonofe.github.io/razonofe/"/>
+ <updated>2021-09-18T21:18:08+02:00</updated>
+ <id>https://razonofe.github.io/razonofe</id>
  <author>
    <name>Razon o fe</name>
    <email>razonofe@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="https://razonofe.github.io/2020/04/01/whats-jekyll/"/>
+   <link href="https://razonofe.github.io/razonofe/2020/04/01/whats-jekyll/"/>
    <updated>2020-04-01T00:00:00+02:00</updated>
-   <id>https://razonofe.github.io/2020/04/01/whats-jekyll</id>
+   <id>https://razonofe.github.io/razonofe/2020/04/01/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
