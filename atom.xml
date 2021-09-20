@@ -4,7 +4,7 @@
  <title>Razon o fe</title>
  <link href="https://razonofe.github.io/razonofe/atom.xml" rel="self"/>
  <link href="https://razonofe.github.io/razonofe/"/>
- <updated>2021-09-18T21:18:08+02:00</updated>
+ <updated>2021-09-20T18:17:57+02:00</updated>
  <id>https://razonofe.github.io/razonofe</id>
  <author>
    <name>Razon o fe</name>
@@ -13,19 +13,43 @@
 
  
  <entry>
-   <title>What's Jekyll?</title>
-   <link href="https://razonofe.github.io/razonofe/2020/04/01/whats-jekyll/"/>
-   <updated>2020-04-01T00:00:00+02:00</updated>
-   <id>https://razonofe.github.io/razonofe/2020/04/01/whats-jekyll</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
+   <title>Razón o Fe - Nuestra comunidad</title>
+   <link href="https://razonofe.github.io/razonofe/2020/09/25/whats-jekyll/"/>
+   <updated>2020-09-25T00:00:00+02:00</updated>
+   <id>https://razonofe.github.io/razonofe/2020/09/25/whats-jekyll</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;public/img/razonofe_small.png&quot; alt=&quot;logo&quot; /&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Hola, amig@s!&lt;/p&gt;
 
-&lt;p&gt;It’s an immensely useful tool and one we encourage you to use here with Lanyon.&lt;/p&gt;
+&lt;p&gt;Bienvenid@s a la comunidad &lt;strong&gt;“Razón o fe”&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Todas nuestras actividades están pensadas para que puedas participar en ellas, te invitamos a que lo hagas.&lt;/p&gt;
+
+&lt;p&gt;Juntos queremos:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;CONOCER&lt;/strong&gt; el mundo que nos rodea, a nosotros mismos como parte de él, responder a las grandes preguntas acerca de nuestra naturaleza, sociedad, necesidades, valores…&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;COMPARTIR&lt;/strong&gt; nuestras inquietudes, ideas, deseos, ilusiones, y nuestro trabajo para&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;CUIDAR&lt;/strong&gt; de las personas que formamos la humanidad, creando espacios donde podamos comunicarnos, apoyarnos, establecer relaciones entre personas y grupos de todo tipo para transmitir el bienestar y la fascinación que nos aporta nuestra visión racional, crítica, científica, filosófica y ética de la vida.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Para todo ello,&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tenemos espacios en las redes sociales…. ….&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Realizamos diversas actividades como charlas, tertulias, entrevistas en vivo, creación de espacios de comunicación, trabajo y apoyo…&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Te esperamos en nuestras redes sociales que puedes &lt;a href=&quot;linktr.ee/razonofe&quot;&gt;ver aquí&lt;/a&gt;, muy especialmente en Discord, la maravillosa herramienta que nos permite formar y disfrutar de esta comunidad sin importar el lugar donde vivas.&lt;/p&gt;
+
+&lt;p&gt;Puedes contactarnos en todas nuestras  redes sociales, y en el correo &lt;strong&gt;razonofe@gmail.com&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;¡Nos vemos!&lt;/p&gt;
+
+&lt;p&gt;El equipo de “Razón o fe”&lt;/p&gt;
 </content>
  </entry>
  
