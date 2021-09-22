@@ -21,7 +21,7 @@ Para todo ello,
 
 * Tenemos espacios en las redes sociales 
 
-[Youtube](http://youtube.com/razonofe), [Discord](https://discord.gg/dGZzWY6g), [Instagram](http://instagram.com/razonofe), [twitter](https://twitter.com/razonofe), [Facebook](https://m.facebook.com/Razonofe/), [podcast en todas las plataformas](https://open.spotify.com/show/5VIuFTTgxney6KHwZlrX7v), [Patreon](https://www.patreon.com/razonofe), [tiktok](https://www.tiktok.com/@fcbarcelona?).
+[Youtube](http://youtube.com/razonofe), [Discord](https://discord.gg/dGZzWY6g), [Instagram](http://instagram.com/razonofe), [twitter](https://twitter.com/razonofe), [Facebook](https://m.facebook.com/Razonofe/), [podcast en todas las plataformas](https://open.spotify.com/show/5VIuFTTgxney6KHwZlrX7v), [Patreon](https://www.patreon.com/razonofe), [tiktok](https://www.tiktok.com/@fcbarcelona?), [linktr.ee](https://linktr.ee/razonofe).
 
 * Realizamos diversas actividades como charlas, tertulias, entrevistas en vivo, creación de espacios de comunicación, trabajo y apoyo...
 
