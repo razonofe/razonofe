@@ -6,7 +6,7 @@ title: Razón o Fe - Nuestra comunidad
 ![logo](public/img/razonofe_small.png)
 
 
-Hola, amig@s!
+¡Hola, amig@s!
 
 Bienvenid@s a la comunidad __"Razón o fe"__.
 
