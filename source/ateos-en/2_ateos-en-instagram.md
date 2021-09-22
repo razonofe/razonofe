@@ -1,6 +1,6 @@
 ---
 layout: page
-title: en Instagram
+title: Ateos en Instagram
 logo:  public/img/instagram_logo.png
 ---
 
