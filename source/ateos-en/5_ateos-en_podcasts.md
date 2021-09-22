@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Podcasts
+logo: 
 ---
 
 ### [Herejes: El Podcast](https://open.spotify.com/show/5pimYTQLSCx0M0wYyYWGe8)

@@ -1,20 +1,8 @@
 ---
 layout: page
 title: Ateos en Facebook
+logo: 
 ---
-
-# Grupos
-
-### [Ateísmo y etcétera](https://www.facebook.com/groups/AteismoYEtcetera)
-Este es un grupo privado exclusivamente para ateos, no exclusivamente sobre ateísmo: cualquier tema de conversación es bienvenido, en tanto se sigan las normas de este reglamento.
-
-### [Apoyo y Salud Mental entre Ateos](https://www.facebook.com/groups/ApoyoAteo)
-Grupo privado de Activismo Ateo MX para APOYO y salud mental y emocional para ateos.
-
-
-### [Ateos](https://www.facebook.com/groups/nocreyentes/)
-El grupo Ateos tiene como propósito servir de punto de encuentro y de diálogo entre los ateos de habla hispana
-
 
 # Páginas
 
@@ -60,9 +48,26 @@ Grupo dedicaco a compartir información relacionada con la apostasía en México
 ### [Razón y Ciencia Colombia](https://www.facebook.com/RazonyCienciaColombia)
 Pensamiento critico, medio por el cual podemos comprender realmente el universo que nos rodea, en contraposición a lo que ofrecen la superstición y las pseudociencias.
 
+# Grupos
+
+### [Ateísmo y etcétera](https://www.facebook.com/groups/AteismoYEtcetera)
+Este es un grupo privado exclusivamente para ateos, no exclusivamente sobre ateísmo: cualquier tema de conversación es bienvenido, en tanto se sigan las normas de este reglamento.
+
+### [Apoyo y Salud Mental entre Ateos](https://www.facebook.com/groups/ApoyoAteo)
+Grupo privado de Activismo Ateo MX para APOYO y salud mental y emocional para ateos.
 
 
+### [Ateos](https://www.facebook.com/groups/nocreyentes/)
+El grupo Ateos tiene como propósito servir de punto de encuentro y de diálogo entre los ateos de habla hispana
 
 ### [Razón y Ciencia Colombia](https://www.facebook.com/RazonyCienciaColombia)
 Pensamiento critico, medio por el cual podemos comprender realmente el universo que nos rodea, en contraposición a lo que ofrecen la superstición y las pseudociencias.
 
+# Usuarios
+
+1. [Pablo Rodrigo Britez Gómez](https://www.facebook.com/pablorodrigo.britezgomez)
+1. [Erwin Ocariz](https://www.facebook.com/erwin.ocariz?comment_id=Y29tbWVudDozMzk2NjQ0MDYzNzQ3OTQ5XzMzOTc0MzA2ODAzMzU5NTQ%3D)
+1. [Fabián Ramírez](https://www.facebook.com/panchis101986?comment_id=Y29tbWVudDozMzk2NjQ0MDYzNzQ3OTQ5XzMzOTg2NTcwNzM1NDY2NDg%3D)
+1. [Karina Alba Valle](https://www.facebook.com/karina.albavalle)
+1. [Mar Gayoso](https://www.facebook.com/davidruizmx)
+1. [Sindy Isaza Florez](https://www.facebook.com/sindy89)

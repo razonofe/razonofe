@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Razon o fe</title>
- <link href="https://razonofe.github.io/razonofe/atom.xml" rel="self"/>
- <link href="https://razonofe.github.io/razonofe/"/>
- <updated>2021-09-21T19:46:53+02:00</updated>
- <id>https://razonofe.github.io/razonofe</id>
+ <title>Razón o fe</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2021-09-22T18:03:57+02:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Razon o fe</name>
    <email>razonofe@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Razón o Fe - Nuestra comunidad</title>
-   <link href="https://razonofe.github.io/razonofe/2020/09/25/whats-jekyll/"/>
-   <updated>2020-09-25T00:00:00+02:00</updated>
-   <id>https://razonofe.github.io/razonofe/2020/09/25/whats-jekyll</id>
+   <link href="http://localhost:4000/2021/09/21/bienvenidos/"/>
+   <updated>2021-09-21T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2021/09/21/bienvenidos</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;public/img/razonofe_small.png&quot; alt=&quot;logo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Hola, amig@s!&lt;/p&gt;
@@ -35,12 +35,15 @@
 &lt;p&gt;Para todo ello,&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Tenemos espacios en las redes sociales…. ….&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Realizamos diversas actividades como charlas, tertulias, entrevistas en vivo, creación de espacios de comunicación, trabajo y apoyo…&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Tenemos espacios en las redes sociales&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://youtube.com/razonofe&quot;&gt;Youtube&lt;/a&gt;, &lt;a href=&quot;https://discord.gg/dGZzWY6g&quot;&gt;Discord&lt;/a&gt;, &lt;a href=&quot;http://instagram.com/razonofe&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/razonofe&quot;&gt;twitter&lt;/a&gt;, &lt;a href=&quot;https://m.facebook.com/Razonofe/&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://open.spotify.com/show/5VIuFTTgxney6KHwZlrX7v&quot;&gt;podcast en todas las plataformas&lt;/a&gt;, &lt;a href=&quot;https://www.patreon.com/razonofe&quot;&gt;Patreon&lt;/a&gt;, &lt;a href=&quot;&quot;&gt;tiktok&lt;/a&gt;, &lt;a href=&quot;&quot;&gt;twich&lt;/a&gt;,&lt;/p&gt;
+
+&lt;p&gt;…. ….&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Realizamos diversas actividades como charlas, tertulias, entrevistas en vivo, creación de espacios de comunicación, trabajo y apoyo…&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Te esperamos en nuestras redes sociales que puedes &lt;a href=&quot;https://linktr.ee/razonofe&quot;&gt;ver aquí&lt;/a&gt;, muy especialmente en Discord, la maravillosa herramienta que nos permite formar y disfrutar de esta comunidad sin importar el lugar donde vivas.&lt;/p&gt;
