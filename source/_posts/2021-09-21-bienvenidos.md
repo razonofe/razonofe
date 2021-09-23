@@ -17,17 +17,37 @@ Juntos queremos:
 * __COMPARTIR__ nuestras inquietudes, ideas, deseos, ilusiones, y nuestro trabajo para 
 * __CUIDAR__ de las personas que formamos la humanidad, creando espacios donde podamos comunicarnos, apoyarnos, establecer relaciones entre personas y grupos de todo tipo para transmitir el bienestar y la fascinación que nos aporta nuestra visión racional, crítica, científica, filosófica y ética de la vida.
 
-Para todo ello, 
+También estamos en las redes sociales:
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" alt="email_icon" width="30" style="float:left; vertical-align:middle;" />
+  <div style="float: left; vertical-align: middle;">&#160;&#160;<a href="http://youtube.com/razonofe">Youtube</a></div>
+  <br/>
+* <img src="http://creamostuvideo.com/wp-content/uploads/2021/05/discord-logo.png" alt="email_icon" width="30" style="float:left; vertical-align:middle;" />
+  <div style="float: left; vertical-align: middle;">&#160;&#160;<a href="https://discord.gg/dGZzWY6g">Discord</a></div>
+  <br/>
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="email_icon" width="30" style="float:left; vertical-align:middle;" />
+  <div style="float: left; vertical-align: middle;">&#160;&#160;<a href="http://instagram.com/razonofe">Instagram</a></div>
+  <br/>
+* <img src="https://img2.freepng.es/20180703/lrf/kisspng-logo-clip-art-5b3c03662878d2.3537673115306596861658.jpg" alt="email_icon" width="30" style="float:left; vertical-align:middle;" />
+  <div style="float: left; vertical-align: middle;">&#160;&#160;<a href="https://twitter.com/razonofe">twitter</a></div>
+  <br/>
+* <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="email_icon" width="30" style="float:left; vertical-align:middle;" />
+  <div style="float: left; vertical-align: middle;">&#160;&#160;<a href="https://m.facebook.com/Razonofe/">Facebook</a></div>
+  <br/>
+* <img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Spotify_icon-icons.com_66783.png" alt="email_icon" width="30" style="float:left; vertical-align:middle;" />
+  <div style="float: left; vertical-align: middle;">&#160;&#160;<a href="https://open.spotify.com/show/5VIuFTTgxney6KHwZlrX7v">Spotify</a></div>
+  <br/>
+* <img src="https://play-lh.googleusercontent.com/Na6tpXBhckELpKiT8y0rTE6iJeytOHszx3yBdPbVujrjD0uPrZlNq6CgdagSORdhaQ" alt="email_icon" width="30" style="float:left; vertical-align:middle;" />
+  <div style="float: left; vertical-align: middle;">&#160;&#160;<a href="https://www.patreon.com/razonofe">Patreon</a></div>
+  <br/>
+* <img src="https://cdn.worldvectorlogo.com/logos/tiktok-logo-2--1.svg" alt="email_icon" width="30" style="float:left; vertical-align:middle;" />
+  <div style="float: left; vertical-align: middle;">&#160;&#160;<a href="https://www.tiktok.com/@razonofe">Tiktok</a></div>
+  <br/>
 
-* Tenemos espacios en las redes sociales 
-
-[Youtube](http://youtube.com/razonofe), [Discord](https://discord.gg/dGZzWY6g), [Instagram](http://instagram.com/razonofe), [twitter](https://twitter.com/razonofe), [Facebook](https://m.facebook.com/Razonofe/), [podcast en todas las plataformas](https://open.spotify.com/show/5VIuFTTgxney6KHwZlrX7v), [Patreon](https://www.patreon.com/razonofe), [tiktok](https://www.tiktok.com/@razonofe?), [linktr.ee](https://linktr.ee/razonofe).
-
-* Realizamos diversas actividades como charlas, tertulias, entrevistas en vivo, creación de espacios de comunicación, trabajo y apoyo...
+Realizamos diversas actividades como charlas, tertulias, entrevistas en vivo, creación de espacios de comunicación y divulgación.
 
 Te esperamos en nuestras redes sociales que puedes [ver aquí](https://linktr.ee/razonofe), muy especialmente en Discord, la maravillosa herramienta que nos permite formar y disfrutar de esta comunidad sin importar el lugar donde vivas.
 
-Puedes contactarnos en todas nuestras  redes sociales, y en el correo __razonofe@gmail.com__.
+También puedes contactarnos en la dirección correo <a href="mailto:razonofe@gmail.com">razonofe@gmail.com</a>.
 
 ¡Nos vemos!
 
