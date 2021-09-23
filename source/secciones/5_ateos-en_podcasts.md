@@ -7,12 +7,6 @@ logo:
 ### [Herejes: El Podcast](https://open.spotify.com/show/5pimYTQLSCx0M0wYyYWGe8)
 Cuestionamos - Utilizamos el pensamiento crítico para hablar de Historia, Ciencia y Religión - Respetamos a las personas, no a las ideas.
 
-### [Piensa Libre](https://open.spotify.com/show/21gZWwHX9QXHf86zpovaQ5)
-Por una humanidad librepensante y crítica y un mundo sin hipótesis de dios ni religiones.
-
-### [Secularmente](https://anchor.fm/secularmente)
-Conversaciones sobre vida secular, ciencias, lógica y nuestras experiencias personales.
-
 ### [Razón o fe](https://open.spotify.com/show/5VIuFTTgxney6KHwZlrX7v?si=jvrNn0ECRmqBvk4NCXwJ0g)
 Entrevistas con personas del mundo de la ciencia y el pensamiento sobre la razón y la fe. 
 Directos con invitados y tertulias abiertas al público.
