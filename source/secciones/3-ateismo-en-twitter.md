@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ateos en Twitter
+title: Ateismo en Twitter
 logo: 
 ---
 
@@ -236,6 +236,8 @@ Activista ateo y diulgador con una pizca de humor.
 
 
 # Usuarios
+
+si quieres constar en nuestros listados, escribe a razonofe@gmail.com indicando enlace a tu cuenta o cuentas:
 
 * [Abel Estrada](https://twitter.com/abelestradanin)
 * [Absalón](https://twitter.com/AxelPascual)

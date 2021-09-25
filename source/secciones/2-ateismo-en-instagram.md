@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ateos en Instagram
-logo:  public/img/instagram_logo.png
+title: Ateismo en Instagram
+logo:  
 ---
 
 # Grupos
@@ -120,6 +120,8 @@ Apostasía, crítica a la religión.
 
 
 # Usuarios
+
+si quieres constar en nuestros listados, escribe a razonofe@gmail.com indicando enlace a tu cuenta o cuentas:
 
 * [Alberto Espinosa Paez](https://www.instagram.com/albertoesppaez/)
 * [Alessandro Acevedo Castro](https://www.instagram.com/alemiau_wsmsthh_ruinedsanity/)

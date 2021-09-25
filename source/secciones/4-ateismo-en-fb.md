@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ateos en Facebook
+title: Ateismo en Facebook
 logo: 
 ---
 
@@ -64,6 +64,8 @@ El grupo Ateos tiene como propósito servir de punto de encuentro y de diálogo 
 Pensamiento critico, medio por el cual podemos comprender realmente el universo que nos rodea, en contraposición a lo que ofrecen la superstición y las pseudociencias.
 
 # Usuarios
+
+si quieres constar en nuestros listados, escribe a razonofe@gmail.com indicando enlace a tu cuenta o cuentas:
 
 1. [Pablo Rodrigo Britez Gómez](https://www.facebook.com/pablorodrigo.britezgomez)
 1. [Erwin Ocariz](https://www.facebook.com/erwin.ocariz?comment_id=Y29tbWVudDozMzk2NjQ0MDYzNzQ3OTQ5XzMzOTc0MzA2ODAzMzU5NTQ%3D)
