@@ -45,7 +45,9 @@ o síguenos y envíanos un mensaje en nuestras cuentas de redes sociales:
 <div style="float: left; vertical-align: middle;">&#160;&#160;<a href="https://www.tiktok.com/@razonofe">Tiktok</a></div>
 <br/>
 
-todos nuestros enlaces en:
+Contáctanos a través de [este enlace de WhatsApp](https://wa.me/34932171505) si quieres recibir recordatorios de nuestras actividades en esa aplicación.
+
+Todos nuestros enlaces en:
 
 <img src="https://img.icons8.com/color/480/linktree.png" alt="email_icon" width="24" style="float:left; vertical-align:middle;" />
 <div style="float: left; vertical-align: middle;">&#160;&#160;<a href="https://linktr.ee/razonofe">linktr.ee</a></div>
