@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ateismo en Twitter
+title: Ateísmo en Twitter
 logo: 
 ---
 

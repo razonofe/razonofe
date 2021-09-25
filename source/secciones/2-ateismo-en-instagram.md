@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ateismo en Instagram
+title: Ateísmo en Instagram
 logo:  
 ---
 

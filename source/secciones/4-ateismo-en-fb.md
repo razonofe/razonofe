@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ateismo en Facebook
+title: Ateísmo en Facebook
 logo: 
 ---
 

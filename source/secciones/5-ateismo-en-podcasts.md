@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ateismo en Podscasts
+title: Ateísmo en Podscasts
 logo: 
 ---
 

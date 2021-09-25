@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ateismo en Youtube
+title: Ateísmo en Youtube
 logo:
 ---
 
