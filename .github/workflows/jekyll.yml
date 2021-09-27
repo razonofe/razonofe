@@ -18,3 +18,14 @@ jobs:
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+        cp -r -v ${{ github.workspace }}/_site/* ${{ github.workspace }}/
+        pwd
+        ls -lha ${{ github.workspace }}
+    - name: Add and Commit changes to pr-pages branch
+      run: |
+        cd ${{ github.workspace }}
+        git config --local user.email 'action@github.com'
+        git config --local user.name 'GitHub Action'
+        git add -A .
+        git commit -m 'Updates compiled site files'
+
