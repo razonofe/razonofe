@@ -2,9 +2,7 @@ name: Jekyll site CI
 
 on:
   push:
-    branches: [ gh-pages ]
-  pull_request:
-    branches: [ gh-pages ]
+    branches: [ master ]
 
 jobs:
   build:
@@ -29,3 +27,8 @@ jobs:
         git add -A .
         git commit -m 'Updates compiled site files'
 
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.TOKEN }}
+        branch: gh-pages
