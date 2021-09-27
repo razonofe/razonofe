@@ -22,11 +22,14 @@ jobs:
     - name: Add and Commit changes to gh-pages branch
       run: |
         cd ${{ github.workspace }}
+        git status
         git config --local user.email 'action@github.com'
         git config --local user.name 'GitHub Action'
         git pull
         git add -A .
         git commit -m 'Updates compiled site files'
+        git status
         git checkout gh-pages
-        git merge master
-        git push -f origin gh-pages
+        git merge master --allow-unrelated-histories
+        git status
+        git push
