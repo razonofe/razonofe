@@ -29,7 +29,9 @@ jobs:
         git add -A .
         git commit -m 'Updates compiled site files'
         git status
+        echo before checkout gh-pages...
         git checkout gh-pages
-        git merge master --allow-unrelated-histories
+        git merge master
         git status
-        git push
+        echo before push...
+        git push -f
