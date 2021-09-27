@@ -35,4 +35,4 @@ jobs:
         git merge master --allow-unrelated-histories
         git status
         echo before push...
-        git push -f
+        git push origin gh-pages
