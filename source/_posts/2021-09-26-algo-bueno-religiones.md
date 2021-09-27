@@ -18,4 +18,4 @@ Equivalencias:
 * 11:00 Honduras/Guatemala/Costa Rica
 * 10:00 California 
 
-Únete a nuestro discord [aquí](https://discord.gg/dGZzWY6g)
+Únete a nuestro discord [aquí](https://discord.gg/dGZzWY6g).
