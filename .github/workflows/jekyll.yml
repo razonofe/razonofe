@@ -31,7 +31,7 @@ jobs:
         git commit -m 'Updates compiled site files'
         git status
         echo before checkout gh-pages --allow-unrelated-histories...
-        git checkout gh-pages
+        git -b checkout gh-pages
         git merge master --allow-unrelated-histories
         git status
         echo before push...
