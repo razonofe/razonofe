@@ -19,7 +19,7 @@ jobs:
         cp -r -v ${{ github.workspace }}/_site/* ${{ github.workspace }}/
         pwd
         ls -lha ${{ github.workspace }}
-    - name: Add and Commit changes to pr-pages branch
+    - name: Add and Commit changes to gh-pages branch
       run: |
         cd ${{ github.workspace }}
         git config --local user.email 'action@github.com'
@@ -29,4 +29,4 @@ jobs:
         git commit -m 'Updates compiled site files'
         git checkout gh-pages
         git merge master
-        git push
+        git push -f origin gh-pages
