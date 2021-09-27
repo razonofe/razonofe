@@ -27,9 +27,6 @@ jobs:
         git pull
         git add -A .
         git commit -m 'Updates compiled site files'
-
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.TOKEN }}
-        branch: gh-pages
+        git checkout gh-pages
+        git merge master
+        git push
