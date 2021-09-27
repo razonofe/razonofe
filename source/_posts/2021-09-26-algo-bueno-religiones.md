@@ -5,7 +5,7 @@ title: ¿Tienen algo bueno las religiones?
 
 ¿Tienen algo bueno las religiones?
 
-Conversación en vídeo con los amigos de Epistemología de la Calle.
+Conversación en vídeo con los amigos de __Epistemología Callejera en Español__.
 Cuando: __Domingo 3-10-21 17:00 GMT__
 Dónde: En el canal "General" del servidor ["Razón o fe" en Discord](https://discord.gg/dGZzWY6g).
 
