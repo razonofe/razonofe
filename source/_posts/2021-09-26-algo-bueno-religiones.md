@@ -7,7 +7,7 @@ title: ¿Tienen algo bueno las religiones?
 
 Conversación en vídeo con los amigos de __Epistemología Callejera en Español__.
 Cuando: __Domingo 3-10-21 17:00 GMT__
-Dónde: En el canal "General" del servidor ["Razón o fe" en Discord](https://discord.gg/dGZzWY6g).
+Dónde: En el canal "General" del servidor ["Razón o fe" en Discord](https://discord.gg/53WP4nHe).
 
 Equivalencias:
 * 17:00 UTC, GMT (hora universal)
@@ -18,4 +18,4 @@ Equivalencias:
 * 11:00 Honduras/Guatemala/Costa Rica
 * 10:00 California 
 
-Únete a nuestro discord [aquí](https://discord.gg/dGZzWY6g).
+Únete a nuestro discord [aquí](https://discord.gg/53WP4nHe).

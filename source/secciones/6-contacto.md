@@ -18,7 +18,7 @@ o síguenos y envíanos un mensaje en nuestras cuentas de redes sociales:
 <br/>
 
 <img src="http://creamostuvideo.com/wp-content/uploads/2021/05/discord-logo.png" alt="email_icon" width="24" style="float:left; vertical-align:middle;" />
-<div style="float: left; vertical-align: middle;">&#160;&#160;<a href="https://discord.gg/dGZzWY6g">Discord</a></div>
+<div style="float: left; vertical-align: middle;">&#160;&#160;<a href="https://discord.gg/53WP4nHe">Discord</a></div>
 <br/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="email_icon" width="24" style="float:left; vertical-align:middle;" />
