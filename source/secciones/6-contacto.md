@@ -33,7 +33,7 @@ o síguenos y envíanos un mensaje en nuestras cuentas de redes sociales:
 <div style="float: left; vertical-align: middle;">&#160;&#160;<a href="https://m.facebook.com/Razonofe/">Facebook</a></div>
 <br/>
 
-<img src="public/img/spotify_big.png" alt="email_icon" width="24" style="float:left; vertical-align:middle;" />
+<img src="https://www.razonofe.com/public/img/spotify_big.png" alt="email_icon" width="24" style="float:left; vertical-align:middle;" />
 <div style="float: left; vertical-align: middle;">&#160;&#160;<a href="https://open.spotify.com/show/5VIuFTTgxney6KHwZlrX7v">Spotify</a></div>
 <br/>
 
