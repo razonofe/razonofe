@@ -39,7 +39,8 @@ También estamos en las redes sociales:
 <div style="float: left; vertical-align: middle;">&#160;&#160;<a href="https://m.facebook.com/Razonofe/">Facebook</a></div>
 <br/>
 
-<img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Spotify_icon-icons.com_66783.png" alt="email_icon" width="24" style="float:left; vertical-align:middle;" />
+
+<img src="public/img/spotify_big.png" alt="email_icon" width="24" style="float:left; vertical-align:middle;" />
 <div style="float: left; vertical-align: middle;">&#160;&#160;<a href="https://open.spotify.com/show/5VIuFTTgxney6KHwZlrX7v">Spotify</a></div>
 <br/>
 
