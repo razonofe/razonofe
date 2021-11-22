@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Razón o fe</title>
- <link href="https://www.razonofe.com/atom.xml" rel="self"/>
- <link href="https://www.razonofe.com/"/>
- <updated>2021-10-15T07:00:05-05:00</updated>
- <id>https://www.razonofe.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2021-11-22T19:57:42+01:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Razon o fe</name>
    <email>razonofe@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Razón o Fe - Nuestra comunidad</title>
-   <link href="https://www.razonofe.com/2021/09/21/bienvenidos/"/>
-   <updated>2021-09-21T00:00:00-05:00</updated>
-   <id>https://www.razonofe.com/2021/09/21/bienvenidos</id>
+   <link href="http://localhost:4000/2021/09/21/bienvenidos/"/>
+   <updated>2021-09-21T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2021/09/21/bienvenidos</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;public/img/razonofe_small.png&quot; alt=&quot;logo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;¡Hola, amig@s!&lt;/p&gt;
