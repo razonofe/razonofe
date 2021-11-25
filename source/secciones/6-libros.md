@@ -72,6 +72,16 @@ __Temática:__ Historia de la filosofía, ensayo, biografía, tanatología.
 
 ---
 
+# Novella, Clemente
+
+## ¿Dónde está Dios, papá?: Las Respuestas de un Padre Ateo (2012).
+
+Precedida de la polémica, llega una obra valiente e inteligente que nace de una vivencia real: el deseo de un padre de responder a las grandes preguntas de sus hijos sin poner a Dios de por medio. ¿Cómo hablar a los niños de la muerte y del sentido de la existencia desde una perspectiva agnóstica o atea? ¿Qué contestarles a los más jóvenes cuando nos preguntan por Dios, el cielo o el alma desde una postura racional y crítica?
+
+__Temática:__ ateismo, teología, religión, filosofía.
+
+---
+
 # [Sagan, Carl](https://es.wikipedia.org/wiki/Dan_Barker)
 
 ## El mundo y sus demonios (1995).
