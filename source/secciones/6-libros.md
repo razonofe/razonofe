@@ -72,7 +72,7 @@ __Temática:__ Historia de la filosofía, ensayo, biografía, tanatología.
 
 ---
 
-# Novella, Clemente
+# [Novella, Clemente](https://www.amazon.es/s?i=stripbooks&rh=p_27%3AClemente+G%C2%AA+Novella&ref=dp_byline_sr_book_1)
 
 ## ¿Dónde está Dios, papá?: Las Respuestas de un Padre Ateo (2012).
 
