@@ -3,7 +3,7 @@ layout: page
 title: Contacto
 logo: 
 ---
-
+test
 Puedes contactar con nosotros a través de nuestro buzón de correo:
 
 <img src="https://cdn.icon-icons.com/icons2/2768/PNG/512/email_icon_176616.png" alt="email_icon" width="24" style="float:left; vertical-align:middle;" />
