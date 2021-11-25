@@ -3,7 +3,6 @@ layout: page
 title: Contacto
 logo: 
 ---
-Esto es una **prueba**!
 
 Puedes contactar con nosotros a través de nuestro buzón de correo:
 
