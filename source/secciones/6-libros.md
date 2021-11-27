@@ -117,12 +117,6 @@ Es un libro que trata de explicar el método científico y anima al uso del pens
 
 __Temática:__ divulgación científica.
 
-## Contact (1985).
-
-Contacto, premio Locus 1986, desarrolla una de las constantes en la trayectoria del autor: la búsqueda de inteligencia extraterrestre y la comunicación con ella a través de sondas espaciales. En 1997, el director de cine Robert Zemeckis llevó esta historia a la gran pantalla, en una película protagonizada por Jodie Foster y Matthew McConaughey.
-
-__Temática:__ novela, ciencia ficción.
-
 ---
 
 # [Vallejo, Fernando](https://es.wikipedia.org/wiki/Fernando_Vallejo)
