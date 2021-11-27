@@ -54,6 +54,23 @@ __Temática:__ divulgación científica.
 
 ---
 
+# [Harris, Sam](https://es.wikipedia.org/wiki/Sam_Harris)
+
+## El fin de la fe (2007).
+
+El fin de la fe comienza con un relato literario de un día en la vida de un terrorista suicida; su último día. En el capítulo introductorio Harris clama por el fin del respeto y la tolerancia por los sistemas de creencias de la religión, los cuales son descritos como "ausentes por completo de evidencias". Al tiempo que se centra en los peligros que plantean los grupos extremistas religiosos que disponen en la actualidad de armas de destrucción masiva, Harris es igualmente crítico con los religiosos moderados.
+
+__Temática:__ religión.
+
+## Carta a una nación cristiana (2006).
+
+Harris dirige sus argumentos contra los miembros de la derecha cristiana norteamericana. En respuesta a la aparición en la Biblia de todo tipo de cuestiones sobre moralidad, señala el cruel código ético del Antiguo Testamento (muerte por adulterio, homosexualidad o desobediencia a los padres, etc.) y lo opone, por ejemplo, con la completa ausencia de violencia del jainismo. Harris argumenta que la dependencia de dogmas puede crear una falsa moralidad, que se opone a la realidad del sufrimiento humano y los esfuerzos por aliviarlo; así como pone obstáculos religiosos al uso de preservativos, la investigación con células madre, el aborto y el uso de una prometedora vacuna para el virus del papiloma humano.
+
+
+__Temática:__ religión.
+
+---
+
 # [Hitchens, Christopher](https://es.wikipedia.org/wiki/Christopher_Hitchens)
 
 ## Dios no es bueno (2007).
