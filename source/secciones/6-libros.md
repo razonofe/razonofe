@@ -72,6 +72,16 @@ __Temática:__ Historia de la filosofía, ensayo, biografía, tanatología.
 
 ---
 
+# [Llinas, Rodolfo](https://es.wikipedia.org/wiki/Rodolfo_Llin%C3%A1s)
+
+## El cerebro y el mito del Yo (2003).
+
+un acercamiento científico a lo que sabemos hoy sobre el funcionamiento del cerebro y como el alma, el espíritu y otros nombres inmateriales dados a estados funcionales del cerebro no son más que mentiras, ya que los pensamientos, la memoria y las ideas, son fenómenos FÍSICOS que pasan dentro de nuestro cerebro.
+
+__Temática:__ neurología, biología, neurociencia.
+
+---
+
 # [Novella, Clemente](https://www.amazon.es/s?i=stripbooks&rh=p_27%3AClemente+G%C2%AA+Novella&ref=dp_byline_sr_book_1)
 
 ## ¿Dónde está Dios, papá?: Las Respuestas de un Padre Ateo (2012).
