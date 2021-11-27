@@ -97,3 +97,15 @@ Contacto, premio Locus 1986, desarrolla una de las constantes en la trayectoria 
 __Temática:__ novela, ciencia ficción.
 
 ---
+
+# [Vallejo, Fernando](https://es.wikipedia.org/wiki/Fernando_Vallejo)
+
+## La puta de Babilonia (2007).
+
+La puta de Babilonia es un ensayo histórico y académico sobre la Iglesia católica del escritor colombiano Fernando Vallejo. La obra fue presentada en la facultad de filosofía y letras de la UNAM y publicada por Editorial Planeta Mexicana, S.A. en el año 2007. El título alude a la ramera de Babilonia, personaje del libro bíblico del Apocalipsis, frecuentemente asociado a la Iglesia católica.
+
+__Temática:__ historia, teoría y crítica literaria, cristianismo
+
+---
+
+
