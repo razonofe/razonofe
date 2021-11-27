@@ -109,6 +109,16 @@ __Temática:__ ateismo, teología, religión, filosofía.
 
 ---
 
+# [Russell, Bertrand](https://es.wikipedia.org/wiki/Bertrand_Russell)
+
+## Por qué no soy cristiano (2007).
+
+En esta obra lord Bertrand Russell, uno de los pensadores más lúcidos e influyentes que ha dado el siglo XX, reúne catorce ensayos escritos entre 1899 y 1954. En ellos expone y desarrolla los motivos de su agnoticismo, rebate los argumentos tradicionales del cristianismo, identifica el miedo como uno de los fundamentos principales de la religión cuestiona las contribuciones de la religión a la felicidad del ser humano y critica muy duramente los planteamientos del cristianismo en cuestiones sexuales. Por qué no soy cristiano es una de las más conmovedoras y convincentes defensas del no creyente que se han escrito desde los días de Hume y Voltaire.
+
+__Temática:__  historia de la filosofía, cristianismo, filosofía.
+
+---
+
 # [Sagan, Carl](https://es.wikipedia.org/wiki/Dan_Barker)
 
 ## El mundo y sus demonios (1995).
