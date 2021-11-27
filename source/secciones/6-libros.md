@@ -108,4 +108,12 @@ __Temática:__ historia, teoría y crítica literaria, cristianismo
 
 ---
 
+# [Wright, Robert](https://es.wikipedia.org/wiki/Robert_Wright)
 
+## La Evolución de dios (2016).
+
+A lo largo de este apasionante viaje por la Historia, Robert Wright describe cómo la percepción del ser humano acerca de Dios ha ido cambiando y cómo la figura de esa creencia se ha modificado para adaptarse a las expectativas de los creyentes. Desde los primeros pueblos prehistóricos hasta las tres grandes religiones abrahámicas (judaísmo, cristianismo e islamismo) son analizadas intentando establecer qué es lo que lleva al ser humano a creer y cómo la religión ha sido un elemento fundamental en la definición de la sociedad.
+
+__Temática:__ historia de la religión, antropología
+
+---
